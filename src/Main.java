@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Welcome Users in my programe.__.");
         Scanner in = new Scanner(System.in);
         int coffee = 5;
         int tea = 4;
